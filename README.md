@@ -24,9 +24,3 @@
 ```bash
  svn co https://github.com/liuran001/openwrt-packages/branches/packages
 ```
-
-## 不要为了下载而Fork这个项目
-
-## 支持一下？（推荐使用支付宝）
-[![点我打钱](https://latopay.com/w/lt-bar-20714.png)](https://ac59075b964b0715.link.6n6n.top/app/index.php?rootid=123&n=qrpay_free)
-
